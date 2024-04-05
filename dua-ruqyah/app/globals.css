@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cardTitle {
+  @apply text-primaryColor font-semibold;
+}
